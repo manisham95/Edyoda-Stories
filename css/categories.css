@@ -1,0 +1,54 @@
+.nav{
+    padding-left: 180px;
+    padding-right:10px;
+}
+h1{
+   
+    color:#000;
+    font-size: 30px;
+    font-weight:600;
+    margin:14px;
+    
+    
+}
+.filter-container{
+    display:flex;
+    justify-items:left;
+}
+.filter{
+    font-size:14px;
+    font-weight: 600;
+    margin-left: 0px;
+    padding:0;
+    display:block;
+}
+.filter-icon{
+    padding:10px;
+    height:25px;
+    width:25px;
+   
+}
+.categories-container{
+    margin-bottom: 20px;
+    margin-left: 6px;
+    font-size:16px;
+    padding-top:16px;
+    margin-right: 10px;
+}
+.categories{
+    padding: 6px 14px;
+    width: auto;
+    color: #0084ff;
+    border-radius: 15px;
+    border: 1px solid #0084ff;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #f2f6ff;
+}
+.active-category{
+    color: #fff;
+    background-color: #0084ff;
+}
+body{
+    background-color: #f2f6ff;
+}

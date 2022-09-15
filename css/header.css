@@ -1,0 +1,40 @@
+header{
+    padding: 16px 78px;
+    background-color: #fff;
+    height:16%;
+}
+.header-elements{
+    display:inline-block;
+}
+.logo-css{
+    width: 130px;
+    font-size: 32px;
+    color: #0084ff;
+    font-weight: 900;
+}
+.logo-stories-css{
+    Margin: 0;
+    font-weight: 500;
+    font-family: Raleway;
+    font-style: italic;
+}
+.dropdown-css{
+    padding:2px;
+    margin-left:70px;
+    color:#000;
+    display:inline-block;
+}
+.img-drp{
+    padding-top:0;
+    padding-left:8px;
+    height:25px;
+    width:25px;
+    display:inline-block;
+}
+.footer-css{
+    background-color: #172146;
+    height:10px;
+    padding:20px;
+    margin-bottom: 0;
+    
+}
